@@ -1,0 +1,2 @@
+# geral
+coisas gerais
